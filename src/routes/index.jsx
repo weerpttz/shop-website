@@ -13,7 +13,7 @@ const Routes = () => {
   const routesForPublic = [
     {
       path: "/",
-      element: <div>Service Page</div>,
+      element: <div>Hello this is my webSite!!!!</div>,
     },
     {
       path: "/healthcheck",
